@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="start_button_text_start">Start</string>
+    <string name="start_button_text_stop">Stop</string>
+    <string name="sensitivity_view_text">Sensitivity:</string>
+    <string name="exposure_time_view_text">Exposure time:</string>
+    <string name="server_address_text">Server address:</string>
+    <string name="server_port_text">Server port:</string>
+    <string name="camera_spinner_text">Camera id:</string>
+    <string name="image_format_spinner_text">Image format:</string>
+    <string name="process_method_spinner_text">Process method:</string>
+</resources>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="camera_reader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/camera_reader_jar</output-path>
+    <root id="archive" name="camera_reader.jar">
+      <element id="module-output" name="camera_reader" />
+    </root>
+  </artifact>
+</component>
